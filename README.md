@@ -10,6 +10,9 @@ Another dev deleted there repo for this initiasl project.
 I added best buy log in functionality and sped up some of the process of buying but i am still not getting hits for GPUs. 
 I can work on this more if others are interested. 
 
+## Risk
+Use this at your own risk. Risk include but not limited to over spending on extra items, getting your account banned by best buy, purchasing when you are not ready.  
+
 
 ## Install
 `npm install`
