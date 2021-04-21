@@ -5,8 +5,6 @@
   <img src="https://img.shields.io/badge/node-%3E%3D9.3.0-blue.svg" />
 </p>
 
-## Demo
-![](bestbuysniperdemo.gif)
 
 ## Install
 `npm install`
