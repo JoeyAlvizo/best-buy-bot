@@ -5,6 +5,11 @@
   <img src="https://img.shields.io/badge/node-%3E%3D9.3.0-blue.svg" />
 </p>
 
+## Dev Project Statment
+Another deleted there repo for this initiasl project. 
+I added best buy log in functionality and sped up some of the process of buying but i am still not getting hits for GPUs. 
+I can work on this more if others are interested. 
+
 
 ## Install
 `npm install`
