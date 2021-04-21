@@ -6,7 +6,7 @@
 </p>
 
 ## Dev Project Statment
-Another dev deleted there repo for this initiasl project. 
+Another dev deleted their repo for this initiasl project. 
 I added best buy log in functionality and sped up some of the process of buying but i am still not getting hits for GPUs. 
 I can work on this more if others are interested. 
 
